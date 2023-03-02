@@ -146,6 +146,7 @@ GEM
     matrix (0.4.2)
     method_source (1.0.0)
     mini_mime (1.1.2)
+    mini_portile2 (2.8.1)
     minitest (5.17.0)
     msgpack (1.6.0)
     net-imap (0.3.4)
@@ -158,6 +159,9 @@ GEM
     net-smtp (0.3.3)
       net-protocol
     nio4r (2.5.8)
+    nokogiri (1.14.1)
+      mini_portile2 (~> 2.8.0)
+      racc (~> 1.4)
     nokogiri (1.14.1-x64-mingw-ucrt)
       racc (~> 1.4)
     nokogiri (1.14.1-x86-mingw32)
@@ -282,6 +286,7 @@ GEM
     zeitwerk (2.6.7)
 
 PLATFORMS
+  ruby
   x64-mingw-ucrt
   x86-mingw32
   x86_64-linux
