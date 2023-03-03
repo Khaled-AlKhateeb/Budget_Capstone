@@ -106,11 +106,15 @@ Budget Control is a mobile web application that can helps you keep track of your
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://budget-control.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+## 📷 Video Recording <a name="video-record"></a>
+
+- [Video Recoding me explaining the project](https://www.loom.com/share/ba7f672950e840389fe131191a53fe92)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
