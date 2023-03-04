@@ -5,7 +5,7 @@ ruby '3.1.3'
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem 'rails', '~> 7.0.4', '>= 7.0.4.2'
-
+gem 'rails-observers'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem 'sprockets-rails'
 
@@ -69,6 +69,7 @@ group :test do
   # Use system testing [https://guides.rubyonrails.org/testing.html#system-testing]
   gem 'capybara'
   gem 'selenium-webdriver'
+  gem 'shoulda-matchers', '~> 5.0'
   gem 'webdrivers'
 end
 
@@ -86,3 +87,7 @@ gem 'devise'
 
 # Add cancancan
 gem 'cancancan'
+
+gem 'factory_bot_rails'
+
+gem 'font-awesome-rails'
